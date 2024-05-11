@@ -6,10 +6,10 @@ This account has my personal projects from middle school as well as high school.
 
 Hit me up if you have any questions!
 
-My Technical Skills:  
+__My technical skills__:  
 Python, Java, TensorFlow, OpenAI/ChatGPT APIs, TF-Agents (DQN), NumPy, SciPy, MatPlotLib, ML, LLMs, RL
 
-Brief descriptions of my projects:
+__Brief descriptions of some of my projects__:
 1. [llm_experiments](https://github.com/lemonkat/llm_experiments)  
    use multiple LLM agents via APIs to emulate social interactions and test character memories
    
